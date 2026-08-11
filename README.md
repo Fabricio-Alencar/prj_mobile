@@ -69,7 +69,7 @@ lib/
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/agrolink-mobile.git](https://github.com/seu-usuario/agrolink-mobile.git)
+   git clone https://github.com/Fabricio-Alencar/Agrolink-mobile.git
    cd agrolink-mobile
    ```
 
@@ -87,4 +87,4 @@ lib/
 
 ## 🔗 Integração com o Backend
 
-O aplicativo se conecta ao servidor Backend (`back_prj_mobile`) através das rotas mapeadas na classe `ApiService`, responsável por enviar e receber o estado das bombas de irrigação e as leituras de telemetria do solo e ambiente.
+O aplicativo se conecta ao servidor Backend (`Agrolink-mobile-API` - [GitHub]((https://github.com/Fabricio-Alencar/AgroLink-mobile-API.git))) através das rotas mapeadas na classe `ApiService`, responsável por enviar e receber o estado das bombas de irrigação e as leituras de telemetria do solo e ambiente.
