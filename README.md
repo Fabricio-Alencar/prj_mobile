@@ -87,4 +87,4 @@ lib/
 
 ## 🔗 Integração com o Backend
 
-O aplicativo se conecta ao servidor Backend (`Agrolink-mobile-API` - [GitHub]((https://github.com/Fabricio-Alencar/AgroLink-mobile-API.git))) através das rotas mapeadas na classe `ApiService`, responsável por enviar e receber o estado das bombas de irrigação e as leituras de telemetria do solo e ambiente.
+O aplicativo se conecta ao servidor Backend ([`AgroLink-mobile-API`](https://github.com/Fabricio-Alencar/AgroLink-mobile-API.git) - Repositório GitHub) através das rotas mapeadas na classe `ApiService`, responsável por enviar e receber o estado das bombas de irrigação e as leituras de telemetria do solo e ambiente.
